@@ -1,0 +1,10 @@
+.he2 {
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: aquamarine;
+width: 200vh;
+height: 20vh;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 35px;
+}
